@@ -1,4 +1,4 @@
-# Spark-Streaming_RDDs-MapReduce
+# Spark_Streaming_RDDs_MapReduce
 ## Spark Streaming:
 Spark Streaming is a component of the Apache Spark ecosystem that enables the processing of real-time data streams. It allows developers to write streaming applications that consume data from various sources (such as Kafka, Flume, Kinesis, or TCP sockets) and process the data using Spark's high-level functions. Spark Streaming receives live input data and divides it into batches, which are then processed by the Spark engine to generate the final stream of results.
 ## RDDs (Resilient Distributed Datasets):
